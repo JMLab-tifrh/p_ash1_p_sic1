@@ -1,0 +1,11 @@
+                                                                             [  dihedraltypes  ]
+                H1         CT         OR          P          1         0.0  1.6038667          3
+                OP          P         OQ         HO          1         0.0      1.046          3
+                 N         CT         CT         OR          1         0.0  0.6508444          3
+                OR         CT         CT          C          1         0.0  0.6508444          3
+                H1         CT         CT         OR          1         0.0  0.6508444          3
+                CT         CT         OR          P          1         0.0  1.6038667          3
+                CT         OR          P         OP          1         0.0      1.046          3
+                CT         OR          P         OQ          1         0.0      1.046          3
+                OR          P         OQ         HO          1         0.0      1.046          3
+                HC         CT         CT         OR          1         0.0  0.6508444          3

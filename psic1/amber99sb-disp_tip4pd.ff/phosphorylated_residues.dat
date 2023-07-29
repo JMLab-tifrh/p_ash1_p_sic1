@@ -1,0 +1,148 @@
+  [ S1P ];       None        None       None
+[ atoms ];       None        None       None
+         N          N -0.51630000          1
+        HN         HB  0.29360000          2
+        CA         CT  0.02170600          3
+        HA         H1  0.12291800          4
+        CB         CT  0.02502300          5
+       HB1         H1  0.10518400          6
+       HB2         H1  0.10518400          7
+        OG         OR -0.46569000          8
+         P          P  1.32297500          9
+        OT         OQ -0.75278100         10
+       O1P         OP -0.82181000         11
+       O2P         OP -0.82181000         12
+        HT         HO  0.42710100         13
+         C          C  0.53660000         14
+         O          O -0.58190000         15
+ 
+[ bonds ]      
+        N    CA
+       CA     C
+       CA    CB
+       CB    OG
+       OG     P
+        P   O2P
+        P   O1P
+        P    OT
+        C     O
+        N    HN
+       CA    HA
+       CB   HB1
+       CB   HB2
+       OT    HT
+       -C     N
+ 
+  [ T1P ];       None        None       None
+[ atoms ];       None        None       None
+         N          N -0.51630000          1
+        HN         HB  0.29360000          2
+        CA         CT  0.04387300          3
+        HA         H1  0.10447200          4
+        CB         CT  0.35270100          5
+        HB         H1  0.03748800          6
+       CG2         CT -0.28753000          7
+      HG21         HC  0.05426600          8
+      HG22         HC  0.05426600          9
+      HG23         HC  0.05426600         10
+       OG1         OR -0.49076300         11
+         P          P  1.26194400         12
+        OT         OQ -0.70535100         13
+       O1P         OP -0.81535400         14
+       O2P         OP -0.81535400         15
+        HT         HO  0.41907600         16
+         C          C  0.53660000         17
+         O          O -0.58190000         18
+ 
+[ bonds ]      
+        N    CA
+       CA     C
+       CA    CB
+       CB   OG1
+       CB   CG2
+      OG1     P
+        P   O2P
+        P   O1P
+        P    OT
+        C     O
+        N    HN
+       CA    HA
+       CB    HB
+      CG2  HG21
+      CG2  HG22
+      CG2  HG23
+       OT    HT
+       -C     N
+ 
+  [ SEP ];       None        None       None
+[ atoms ];       None        None       None
+         N          N -0.51630000          1
+        HN         HB  0.29360000          2
+        CA         CT -0.27870200          3
+        HA         H1  0.19855300          4
+        CB         CT  0.25380300          5
+       HB1         H1  0.04323000          6
+       HB2         H1  0.04323000          7
+        OG         OR -0.43034300          8
+         P          P  1.38708800          9
+       O1P         OP -0.98295300         10
+       O2P         OP -0.98295300         11
+        OT         OP -0.98295300         12
+         C          C  0.53660000         13
+         O          O -0.58190000         14
+ 
+[ bonds ]      
+        N    CA
+       CA     C
+       CA    CB
+       CB    OG
+       OG     P
+        P   O1P
+        P    OT
+        P   O2P
+        C     O
+        N    HN
+       CA    HA
+       CB   HB2
+       CB   HB1
+       -C     N
+ 
+  [ TPO ];       None        None       None
+[ atoms ];       None        None       None
+         N          N -0.51630000          1
+        HN         HB  0.29360000          2
+        CA         CT -0.31351000          3
+        HA         H1  0.21577200          4
+        CB         CT  0.62386100          5
+        HB         H1  0.00998900          6
+       CG2         CT -0.40680500          7
+      HG21         HC  0.07166200          8
+      HG22         HC  0.07166200          9
+      HG23         HC  0.07166200         10
+       OG1         OR -0.54523000         11
+         P          P  1.36605500         12
+       O1P         OP -0.96570600         13
+       O2P         OP -0.96570600         14
+        OT         OP -0.96570600         15
+         C          C  0.53660000         16
+         O          O -0.58190000         17
+ 
+[ bonds ]      
+        N    CA
+       CA     C
+       CA    CB
+       CB   OG1
+       CB   CG2
+      OG1     P
+        P   O2P
+        P   O1P
+        P    OT
+        C     O
+        N    HN
+       CA    HA
+       CB    HB
+      CG2  HG22
+      CG2  HG21
+      CG2  HG23
+       -C     N
+ 

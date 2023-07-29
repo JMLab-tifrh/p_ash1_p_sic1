@@ -1,0 +1,100 @@
+#!/bin/bash
+source frame_number.sh
+frame_no=136340
+pdb='.pdb'
+file_name='cl_1_sic1_frame_136340.pdb'
+sed -i 's/A   0   /A   20000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   1   /A   30000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   2   /A   40000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   3   /A   50000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   4   /A   60000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   5   /A   70000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   6   /A   80000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   7   /A   90000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   8   /A  100000000   /g' sic1_frame_136340.pdb
+sed -i 's/A   9   /A  110000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  10   /A  120000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  11   /A  130000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  12   /A  140000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  13   /A  150000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  14   /A  160000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  15   /A  170000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  16   /A  180000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  17   /A  190000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  18   /A  200000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  19   /A  210000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  20   /A  220000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  21   /A  230000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  22   /A  240000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  23   /A  250000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  24   /A  260000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  25   /A  270000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  26   /A  280000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  27   /A  290000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  28   /A  300000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  29   /A  310000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  30   /A  320000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  31   /A  330000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  32   /A  340000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  33   /A  350000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  34   /A  360000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  35   /A  370000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  36   /A  380000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  37   /A  390000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  38   /A  400000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  39   /A  410000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  40   /A  420000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  41   /A  430000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  42   /A  440000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  43   /A  450000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  44   /A  460000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  45   /A  470000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  46   /A  480000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  47   /A  490000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  48   /A  500000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  49   /A  510000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  50   /A  520000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  51   /A  530000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  52   /A  540000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  53   /A  550000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  54   /A  560000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  55   /A  570000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  56   /A  580000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  57   /A  590000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  58   /A  600000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  59   /A  610000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  60   /A  620000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  61   /A  630000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  62   /A  640000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  63   /A  650000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  64   /A  660000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  65   /A  670000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  66   /A  680000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  67   /A  690000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  68   /A  700000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  69   /A  710000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  70   /A  720000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  71   /A  730000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  72   /A  740000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  73   /A  750000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  74   /A  760000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  75   /A  770000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  76   /A  780000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  77   /A  790000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  78   /A  800000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  79   /A  810000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  80   /A  820000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  81   /A  830000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  82   /A  840000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  83   /A  850000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  84   /A  860000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  85   /A  870000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  86   /A  880000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  87   /A  890000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  88   /A  900000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  89   /A  910000000   /g' sic1_frame_136340.pdb
+sed -i 's/A  90   /A  920000000   /g' sic1_frame_136340.pdb
+sed -i 's/A9999   /A   100   /g' sic1_frame_136340.pdb
+sed -i 's/A   100/A   1/g' sic1_frame_136340.pdb
+sed -i 's/0000000    /    /g' sic1_frame_136340.pdb
+sed -i 's/TER    1375      THR A  90/TER    1375      THR A  92/g' sic1_frame_136340.pdb
